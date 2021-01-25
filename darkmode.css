@@ -5,7 +5,7 @@ html {
 }
 html, body, input, textarea, select, button {
     border-color: #736b5e;
-    color: #cccccc;
+    color: #000000;
     background-color: #282828;
 }
 a {
