@@ -1,4 +1,4 @@
-/* This script was made by Hooman1130 (hooman1130.github.io) */
+/* Much of this script was made by Hooman1130 (hooman1130.github.io) */
 
 html {
     background-color: #282828 !important;
@@ -54,7 +54,7 @@ a:hover {
 div.break {
     clear: both;
 }
-span.float {
+.float {
     width: 12em;
     float: left;
     font-size: 100%;
