@@ -5,8 +5,8 @@ html {
 }
 html, body, input, textarea, select, button {
     border-color: #FFFFFF;
-    color: #FFFFFF;
-    background-color: #FFFFFF;
+    color: #FFFFFF !important;
+    background-color: #282828;
 }
 a {
     color: #3391ff;
